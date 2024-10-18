@@ -1,7 +1,7 @@
 ## Oi! eu me chamo Pedro Henrique
 
 - 🔭 No momento eu não estou trabalhando com nada, estou aberto a propostas
-- 🌱 Cursando TADS na faculdade FIEL (Faculdades Integradas Einstein de Limeira) e estudando mais sobre back-end, front-end e php.
+- 🌱 Cursando TADS na faculdade FIEL (Faculdades Integradas Einstein de Limeira) e estudando mais sobre Back-end, Front-end, PHP, Blender e Python.
 - 📫 Entre em contato comigo pelo e-mail: fiorentino.pedrohenrique@gmail.com
 - 😄 Pronomes: ele/dele
 
